@@ -56,6 +56,35 @@ The Pandas library is built on NumPy and provides easy-to-use data structures an
 2. Select on Save and Export Notebook As.
 3. Select Executable Script.
 
+## Output
+![Alt Text](PA3_IMAGES_USED/1A.png)
+
+This is my output for loading the corresponding .csv file (cars.csv) into a data frame named cars using pandas.
+***
+![Alt Text](PA3_IMAGES_USED/1B.png)
+
+This is my output for displaying the first five rows of the resulting cars from the data frame.
+***
+![Alt Text](PA3_IMAGES_USED/1.2B.png)
+
+This is my output for displaying the last five rows of the resulting cars from the data frame.
+***
+![Alt Text](PA3_IMAGES_USED/2A.png)
+
+This is my output for displaying the first five rows with odd-numbered columns of cars.
+***
+![Alt Text](PA3_IMAGES_USED/2B.png)
+
+This is my output for the displaying the row that contains the 'Model' of 'Mazda RX4'.
+***
+![Alt Text](PA3_IMAGES_USED/2C.png)
+
+This is my output for determining how many cylinders does the car model 'Camaro Z28' have.
+***
+![Alt Text](PA3_IMAGES_USED/2D.png)
+
+This is my output for determining how many cylinders and what gear type do the car models 'Mazda RX4 Wag', 'Ford Pantera L' and 'Honda Civic' have.
+***
 ## Author
 Pangan, Raven G.
 
