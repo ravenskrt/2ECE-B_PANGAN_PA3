@@ -89,7 +89,7 @@ This is my output for determining how many cylinders and what gear type do the c
 Pangan, Raven G.
 
 ## References
-* ECE2112 Lecture Notes by Prof. Engr. Ma. Madecheen S. Pangaliman, MSc.
+* ECE2112 Lecture Notes by Prof. Engr. Ma. Madecheen S. Pangaliman, MSc, and Prof. Engr. Nico John Leo S. Lobos.
 * README.md file by SuperMadee 
 
 
